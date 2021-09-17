@@ -1,0 +1,36 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.body-full {
+  margin: 2rem 10rem;
+}
+
+.addTodo form {
+  width: 100%;
+}
+
+.addTodo input {
+  width: 50%;
+  margin: 1rem 0;
+}
+
+.addTodo button {
+  border: none;
+  background-color: purple;
+  color: white;
+  font-weight: 600;
+  padding: 0.5rem;
+}
+
+.todoList ul li {
+  list-style: none;
+  margin: 0.5rem 0;
+}
+
+.itemList {
+  background-color: rgb(224, 224, 224);
+  padding: 10px;
+  margin: 1rem;
+}
